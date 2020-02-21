@@ -1,7 +1,11 @@
 patil
 
 
+<<<<<<< HEAD
 this is first commit
 
 
 
+=======
+this is first commit
+>>>>>>> a8eae7b... commit1

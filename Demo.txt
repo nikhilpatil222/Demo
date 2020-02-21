@@ -1,1 +1,12 @@
+<<<<<<< HEAD
 patil
+=======
+patil
+
+
+this is first commit
+
+
+
+this is second commit
+>>>>>>> 6a4cab2... commit2
